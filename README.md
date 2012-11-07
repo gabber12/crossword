@@ -13,3 +13,11 @@ Words are taken from a standard dictonary. <br>//Dictionary Search can be signif
 Just A Complex Graph search with backtracking is applied.<br>
 Can be modified to give all solutions.<br>
 Thanks To -<br/><b>Dr.Peter Norvig</b> Article on sudoku.<br/>
+
+<h3> Rough Benchmarking</h3>
+<h6>Performed Some tests on my Core i5 processor machine</h6>
+<ul>
+	<li> Average time to solve a 11X11 Matrix 5.400s </li>
+	<li> Average time to solve a 7X7 Matrix 2.328s </li>
+
+</ul>
